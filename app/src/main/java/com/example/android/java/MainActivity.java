@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
 
             if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
                 displayMessage("This language isn't supported");
-                
+
             } else {
                 ttsInitialized = true;
             }
@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
             displayMessage("TextToSpeech wasn't initialized");
             return;
         }
-
+                                             //     null = bundle
         tts.speak(speech, TextToSpeech.QUEUE_FLUSH, null, "speech");
     }
 }
