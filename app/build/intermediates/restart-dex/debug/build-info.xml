@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1594472425393354"
+    token="2136798658016145045"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="222" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="80" />
+    <task
+        name="verifier"
+        duration="32" />
+
+    <artifact
+        location="D:\DESIGN_PATTERN_ANDROID\Ch05\TextToSpeech\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1594472425393354"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\DESIGN_PATTERN_ANDROID\Ch05\TextToSpeech\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

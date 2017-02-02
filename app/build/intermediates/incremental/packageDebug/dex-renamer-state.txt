@@ -1,0 +1,7 @@
+#Thu Feb 02 09:17:50 CET 2017
+base.0=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\TextToSpeech\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5a2673caf7fb0500290679ff47da09157e486516
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\TextToSpeech\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0ccbecd37aa479659c0aa91cc5901032c82abd59\\classes.dex
+base.1=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\TextToSpeech\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0ccbecd37aa479659c0aa91cc5901032c82abd59
+file.0=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\TextToSpeech\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5a2673caf7fb0500290679ff47da09157e486516\\classes.dex
